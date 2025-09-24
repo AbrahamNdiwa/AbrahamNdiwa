@@ -4,7 +4,7 @@
 I'm a passionate **Software Quality Engineer** and **Full-Stack Developer** based in Queensland, Australia, with a strong foundation in Information Technology and 2+ years of professional testing experience at Microsoft through Techno Brain Group Kenya.
 
 🎓 **Education:** Masters & Bachelors in Information Technology  
-🏆 **Achievement:** Winner of "Feather in My Cup" award for exceptional KPI performance  
+🏆 **Achievement:** Winner of "Feather in My Cap" award for exceptional KPI performance  
 🌍 **Location:** Queensland, Australia  
 
 ## 💼 Professional Experience
