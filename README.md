@@ -1,7 +1,7 @@
 # Hi there, I'm Abraham Ndiwa👋
 
 ## 🚀 About Me
-Results-driven Software Test Engineer & Full-Stack Developer with proven expertise in enterprise-level testing at Microsoft and comprehensive development skills across modern tech stacks. Currently based in Queensland, Australia, I bring a unique combination of rigorous quality assurance methodologies and hands-on development experience to deliver robust, scalable solutions.
+Results-driven Software Test Engineer & Full-Stack Developer with proven expertise in enterprise-level testing at Microsoft and comprehensive development skills across modern tech stacks. Currently based in Queensland, Australia, I bring a unique combination of quality assurance methodologies, kali linux, raspberry pi experise and hands-on development experience to deliver robust, scalable solutions.
 
 🎓 **Education:** Masters & Bachelors in Information Technology  
 🏆 **Achievement:** Winner of "Feather in My Cap" award for exceptional KPI performance  
