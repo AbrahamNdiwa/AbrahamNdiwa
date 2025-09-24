@@ -1,7 +1,7 @@
 # Hi there, I'm Abraham Ndiwa👋
 
 ## 🚀 About Me
-I'm a passionate **Software Quality Engineer** and **Full-Stack Developer** based in Queensland, Australia, with a strong foundation in Information Technology and 2+ years of professional testing experience at Microsoft through Techno Brain Group Kenya.
+Results-driven Software Test Engineer & Full-Stack Developer with proven expertise in enterprise-level testing at Microsoft and comprehensive development skills across modern tech stacks. Currently based in Queensland, Australia, I bring a unique combination of rigorous quality assurance methodologies and hands-on development experience to deliver robust, scalable solutions.
 
 🎓 **Education:** Masters & Bachelors in Information Technology  
 🏆 **Achievement:** Winner of "Feather in My Cap" award for exceptional KPI performance  
